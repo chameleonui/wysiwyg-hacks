@@ -1,0 +1,13 @@
+{
+  "name": "wysiwyg-hacks",
+  "repo": "chameleonui/wysiwyg-hacks",
+  "description": "Some css hacks for CK wysiwyg editor",
+  "version": "1.0.0",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "styles": [
+    "wysiwyg-hacks.styl"
+  ]
+}
